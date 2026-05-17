@@ -1,1 +1,2 @@
-alert("Hi js");
+var message = "hello.";
+console.log(message);
