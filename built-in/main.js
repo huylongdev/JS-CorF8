@@ -7,3 +7,4 @@ setTimeout(function () {
 setInterval(function () {
   console.log(type);
 }, 2000);
+//abc testing
